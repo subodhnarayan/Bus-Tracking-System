@@ -46,7 +46,7 @@ This project is a cross-platform mobile application built with React Native that
 4. Push to the branch
 5. Create a new Pull Request.
 
-## Author
+## Authors
 - Name: [Subodh Narayan Sah],[Nabin Kumar Sah],[Prajwal Kadam] [Pradeep Kumar Gupta]
 
 ## License
