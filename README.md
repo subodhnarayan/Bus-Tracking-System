@@ -47,7 +47,7 @@ This project is a cross-platform mobile application built with React Native that
 5. Create a new Pull Request.
 
 ## Author
-- Name: [Pradeep Kumar Gupta](https://pradeepkrgupta.vercel.app/)
+- Name: [Subodh Narayan Sah],[Nabin Kumar Sah],[Prajwal Kadam] [Pradeep Kumar Gupta]
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
